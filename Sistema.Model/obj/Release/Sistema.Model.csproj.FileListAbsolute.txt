@@ -1,0 +1,13 @@
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\bin\Release\Sistema.Model.dll.config
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\bin\Release\Sistema.Model.dll
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\bin\Release\Sistema.Model.pdb
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\bin\Release\Sistema.DAO.dll
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\bin\Release\Sistema.Entidades.dll
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\bin\Release\Sistema.DAO.pdb
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\bin\Release\Sistema.DAO.dll.config
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\bin\Release\Sistema.Entidades.pdb
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\obj\Release\Sistema.Model.csproj.AssemblyReference.cache
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\obj\Release\Sistema.Model.csproj.CoreCompileInputs.cache
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\obj\Release\Sistema.Model.csproj.CopyComplete
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\obj\Release\Sistema.Model.dll
+C:\ProjetosDotNet\Sistema-Academia\Sistema.Model\obj\Release\Sistema.Model.pdb
